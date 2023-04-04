@@ -41,17 +41,59 @@ li {
 }
 #menu2 li {
   margin-top: 70px;
+  padding-bottom: 10px;
   list-style-type: none;
   text-align: center;
 }
+#rcorners {
+  border-radius: 50px;
+}
 
 #menu2 img {
-  max-width: 100%;
+  max-width: 75%;
 }
+.border-rounded {
+  border-radius: 8px;
+}
+
 
 #hero-image {
   height: 400px;
   width: 100%;
   background: url(../images/heroimage.webp) no-repeat center center;
   background-size: cover;
+}
+hr.solid {
+border-top: 2px solid rgb(110, 68, 32);
+padding-top: 10px;
+}
+
+p {
+  color: rgb(110, 68, 32);
+  font-size: 80%;
+  padding: 0 50px 0 50px;
+  text-align: center;
+}
+.content-box {
+  background-color: rgb(198, 163, 129);
+  margin: 0 auto;
+  padding: 0% 5.5%;
+}
+h3 {
+  text-align: center;
+  color: rgb(81, 46, 16);
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+h2 {
+  text-transform: capitalize;
+  color: rgb(81, 46, 16);
+  text-align: center;
+  font-size: 115%;
+  padding-top: 45px;
+  padding-bottom: 15px;
+}
+
+p {
+
 }
