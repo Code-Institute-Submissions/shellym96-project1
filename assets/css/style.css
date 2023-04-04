@@ -4,10 +4,20 @@ body {
   font-family: amstelvar, sans-serif;
   font-size: 25px;
 }
+* { 
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+  text-decoration: none;
+}
 h1 {
   color: pink;
 }
-
+header {
+  display: flex;
+  flex-direction: column;
+}
 ul,
 li {
   font-size: 20px;
@@ -20,22 +30,24 @@ li {
   list-style-type: none;
 }
 
+#menu2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
 #menu2 li {
-  text-align: left;
-  margin-right: 25px;
-  margin-left: 20px;
   margin-top: 70px;
   list-style-type: none;
-}
-#new {
   text-align: center;
-  margin-right: 20px;
-  margin-left: 20px;
-  margin-top: 70px;
-  list-style-type: none;
 }
+
+#menu2 img {
+  max-width: 100%;
+}
+
 #hero-image {
   height: 400px;
   width: 100%;
   background: url(../images/hero-image.png) no-repeat center center;
+  background-size: cover;
 }
