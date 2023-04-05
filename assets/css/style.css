@@ -46,6 +46,7 @@ li {
   padding-bottom: 10px;
   list-style-type: none;
   text-align: center;
+  font-size: 25px;
 }
 #rcorners {
   border-radius: 50px;
@@ -122,3 +123,6 @@ footer{
   margin: 1%;
   color: rgb(81, 46, 16);
 }
+
+/* style for occasions html images */
+
