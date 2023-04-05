@@ -116,7 +116,6 @@ h2 {
 }
 
 .socials {
-  text-align: center;
-  color: rgb(81, 46, 16);
+  justify-content: center;
   padding-top: 80px; 
 }
