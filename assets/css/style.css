@@ -12,6 +12,11 @@ body {
   box-sizing: border-box;
   text-decoration: none;
 }
+
+#logo {
+  padding-top: 2.5%;
+}
+
 h1 {
   color: rgb(110, 68, 32);
   padding-top: 1.5%;
@@ -126,6 +131,10 @@ footer{
 
 /* style for occasions html images */
 
+body {
+  background-color: rgb(245, 214, 176);
+}
+
 #anniversary {
   text-align: center;
   color: rgb(110, 68, 32);
@@ -148,4 +157,13 @@ footer{
 
 #titles {
   text-align: center;
+  font-size: 25px;
+  position: relative;
+  bottom: -65px;
+  text-decoration: underline;
+}
+
+hr.solid-2 {
+  border-top: 3px solid rgb(110, 68, 32);
+  padding: 1rem;
 }
