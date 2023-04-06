@@ -53,6 +53,11 @@ li {
   text-align: center;
   font-size: 25px;
 }
+
+.button {
+  text-align: center;
+  position: relative;
+}
 #rcorners {
   border-radius: 50px;
 }
