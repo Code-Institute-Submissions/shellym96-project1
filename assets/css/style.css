@@ -132,7 +132,20 @@ footer{
 }
 
 #image-a img{
-  width: 20%;
- display: inline;
+ max-width: 75%;
+ padding-left: 30px;
+ padding-right: 30px;
+ margin-left: 10%;
+}
 
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0.5rem;
+  padding-top: 7%;
+}
+
+
+#titles {
+  text-align: center;
 }
