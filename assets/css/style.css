@@ -126,3 +126,13 @@ footer{
 
 /* style for occasions html images */
 
+#anniversary {
+  text-align: center;
+  color: rgb(110, 68, 32);
+}
+
+#image-a img{
+  width: 20%;
+ display: inline;
+
+}
