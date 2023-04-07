@@ -52,12 +52,9 @@ li {
   list-style-type: none;
   text-align: center;
   font-size: 25px;
+  color: rgb(81, 46, 16);
 }
 
-.button {
-  text-align: center;
-  position: relative;
-}
 #rcorners {
   border-radius: 50px;
 }
@@ -65,6 +62,7 @@ li {
 #menu2 img {
   max-width: 75%;
 }
+
 .border-rounded {
   border-radius: 8px;
 }
@@ -88,11 +86,17 @@ p {
   padding: 0 50px 0 50px;
   text-align: center;
 }
+
 .content-box {
   background-color: rgb(198, 163, 129);
   margin: 0 auto;
   padding: 0% 5.5%;
 }
+
+.about-us {
+  margin-bottom: 2.5%;
+}
+
 h3 {
   text-align: center;
   color: rgb(81, 46, 16);
