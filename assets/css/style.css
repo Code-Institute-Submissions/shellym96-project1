@@ -160,7 +160,7 @@ body {
  margin-left: 10%;
 }
 
-.container {
+.container{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 0.5rem;
@@ -176,7 +176,31 @@ body {
   text-decoration: underline;
 }
 
+
 hr.solid-2 {
   border-top: 3px solid rgb(110, 68, 32);
   padding: 1rem;
+}
+
+.caption1{
+  text-align: center;
+  float: none;
+  padding-top: 6%;
+}
+.caption2 {
+  text-align: center;
+  float: none;
+  padding-top: 7%;
+}
+.caption3 {
+  text-align: center;
+  float: none;
+  padding-top: 6%;
+}
+
+.zoom:hover {
+  transition: .5s ease all; 
+  width: 100%; 
+  object-fit:cover;
+  transform: scale(1.2);
 }
