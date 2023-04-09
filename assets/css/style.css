@@ -35,6 +35,7 @@ li {
   padding-bottom: 15px;
 }
 /* menu 1 is home,occasions and flower subs*/
+
 #menu1 li {
   float: right;
   margin-right: 40px;
@@ -45,6 +46,8 @@ li {
   text-decoration: underline;
   color: rgb(81, 46, 16);
 }
+/* menu2 is best sellers, new arrivals and extra special*/
+
 #menu2 {
   display: flex;
   flex-direction: row;
@@ -157,16 +160,20 @@ body {
  max-width: 75%;
  padding-left: 30px;
  padding-right: 30px;
- margin-left: 10%;
+ margin: auto;
 }
 
-.container{
+.zoom:hover {
+  transition: .5s ease all; 
+  object-fit:cover;
+  transform: scale(1.2);
+}
+
+.container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 0.5rem;
-  padding-top: 7%;
+  gap: 2rem;
 }
-
 
 #titles {
   text-align: center;
@@ -174,6 +181,8 @@ body {
   position: relative;
   bottom: -65px;
   text-decoration: underline;
+  flex-direction: column;
+  padding-bottom: 7%;
 }
 
 
@@ -186,21 +195,15 @@ hr.solid-2 {
   text-align: center;
   float: none;
   padding-top: 6%;
+  vertical-align: bottom;
 }
 .caption2 {
   text-align: center;
   float: none;
-  padding-top: 7%;
+  vertical-align: bottom;
 }
 .caption3 {
   text-align: center;
-  float: none;
   padding-top: 6%;
-}
-
-.zoom:hover {
-  transition: .5s ease all; 
-  width: 100%; 
-  object-fit:cover;
-  transform: scale(1.2);
+  vertical-align: bottom;
 }
