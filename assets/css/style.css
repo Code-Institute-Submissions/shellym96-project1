@@ -126,7 +126,9 @@ h2 {
 }
 
 footer{
-  height: 190px;
+  height: 105px;
+  background-color: rgb(198, 163, 129);
+  margin-top: 3%;
 }
 .socials {
   text-align: center;
@@ -138,11 +140,12 @@ footer{
 
 .socials i {
   font-size: 160%;
+  margin: 5px;
+  padding-top: 33px;
   padding-right: 130px;
   padding-left: 130px;
-  padding-top: 5%;
-  margin: 1%;
   color: rgb(81, 46, 16);
+  text-align: center;
 }
 
 /* style for occasions html images */
