@@ -203,7 +203,7 @@ hr.solid-2 {
 }
 
 /* subscription box */
-
+/*
 #form {
   padding-bottom: 10px;
   list-style-type: none;
@@ -222,6 +222,13 @@ hr.solid-2 {
 
 }
 
+.flowersub-form > h2 {
+  margin: 0 auto;
+  display: block;
+  color: rgb(81, 46, 16);
+}
+*/
+
 .join-button {
   text-align: center;
   font-size: 100%;
@@ -231,11 +238,44 @@ hr.solid-2 {
   padding: 15px 32px 15px 32px;
   display: block;
   margin: 0 auto;
-
 }
 
-.flowersub-form > h2 {
-  margin: 0 auto;
+.text-input {
+  color: rgb(110, 68, 32);
+  width: 50%;
+  height: 25px;
+  margin: 5px 0 20px 0;
+  border: 1px solid;
+  border-radius: 2px;
+  padding-top: 1%;
+}
+
+.text-input-message {
+  color: rgb(110, 68, 32);
+  width: 50%;
+  height: 25px;
+  margin: 5px 0 20px 0;
+  border: 1px solid;
+  border-radius: 2px;
+  padding-top: 10%;
+}
+
+.subform {
+  background-color: rgb(198, 163, 129);
+  color: rgb(110, 68, 32);
+  clear: both;
+  max-width: 700px;
+  margin: 10% auto;
   display: block;
+  text-align: left;
+}
+
+.flowersub-form {
+  margin: 0 auto;
   color: rgb(81, 46, 16);
+  background-color: rgb(198, 163, 129);
+  max-width: 700px;
+  position: absolute;
+  padding: 30px;
+
 }
