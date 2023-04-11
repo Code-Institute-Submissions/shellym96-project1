@@ -3,7 +3,7 @@
 body {
   font-family: forum; 
   font-size: 25px;
-  background-color: rgb(237, 197, 219);
+  background-color: rgb(225, 221, 215);
 }
 * {
   margin: 0;
@@ -16,6 +16,10 @@ body {
 #logo {
   padding-top: 2.5%;
   font-family: forum;
+  background-color: rgb(198, 163, 129);
+}
+.top {
+  background-color: rgb(198, 163, 129);
 }
 
 h1 {
@@ -76,7 +80,7 @@ li {
 
 
 #hero-image {
-  height: 400px;
+  height: 500px;
   width: 100%;
   background: url(../images/heroimage.webp) no-repeat center center;
   background-size: cover;
