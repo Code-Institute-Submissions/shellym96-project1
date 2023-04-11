@@ -169,6 +169,11 @@ body {
  padding-right: 30px;
  margin: auto;
 }
+/* NEED TO CHECK WITH TIM ON HOW TO MAKE BIGGER LIKE OTHERS*/
+#chocolates {
+  max-width: 120%;
+  max-height: auto;
+}
 
 .zoom:hover {
   transition: .5s ease all; 
