@@ -202,3 +202,40 @@ hr.solid-2 {
   padding: 1rem;
 }
 
+/* subscription box */
+
+#form {
+  padding-bottom: 10px;
+  list-style-type: none;
+  text-align: center;
+}
+
+.subform {
+  background-color: rgb(198, 163, 129);
+  color: rgb(110, 68, 32);
+  clear: both;
+  max-width: 700px;
+  margin: 10% auto;
+  display: block;
+  text-align: center;
+ 
+
+}
+
+.join-button {
+  text-align: center;
+  font-size: 100%;
+  background-color: rgb(245, 214, 176);
+  color: rgb(110, 68, 32);
+  border-radius: 15px;
+  padding: 15px 32px 15px 32px;
+  display: block;
+  margin: 0 auto;
+
+}
+
+.flowersub-form > h2 {
+  margin: 0 auto;
+  display: block;
+  color: rgb(81, 46, 16);
+}
