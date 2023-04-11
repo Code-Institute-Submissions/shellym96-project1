@@ -185,25 +185,8 @@ body {
   padding-bottom: 7%;
 }
 
-
 hr.solid-2 {
   border-top: 3px solid rgb(110, 68, 32);
   padding: 1rem;
 }
 
-.caption1{
-  text-align: center;
-  float: none;
-  padding-top: 6%;
-  vertical-align: bottom;
-}
-.caption2 {
-  text-align: center;
-  float: none;
-  vertical-align: bottom;
-}
-.caption3 {
-  text-align: center;
-  padding-top: 6%;
-  vertical-align: bottom;
-}
