@@ -241,6 +241,8 @@ hr.solid-2 {
 }
 
 .text-input {
+  display: flex;
+  justify-content: flex-start;
   color: rgb(110, 68, 32);
   width: 50%;
   height: 25px;
@@ -259,18 +261,34 @@ hr.solid-2 {
   border-radius: 2px;
   padding-top: 10%;
 }
+body {
+  background-image: url(../images/background.jpg);
+  background-size: 50%;
+  background-repeat: no-repeat;
+  align-items: stretch;
+
+}
 
 .subform {
+    display: flex;
+    flex-direction: column;
+    background-size: cover;
+    align-items: center;
+  /*
+  display: flex;
+  justify-content: center;
   background-color: rgb(198, 163, 129);
-  color: rgb(110, 68, 32);
+  color: rgb(236, 183, 130);
   clear: both;
   max-width: 700px;
   margin: 10% auto;
   display: block;
   text-align: left;
+  padding-bottom: 15%;*/
 }
 
 .flowersub-form {
+  align-items: stretch;
   margin: 0 auto;
   color: rgb(81, 46, 16);
   background-color: rgb(198, 163, 129);
