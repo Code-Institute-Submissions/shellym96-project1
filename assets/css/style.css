@@ -3,7 +3,7 @@
 body {
   font-family: forum; 
   font-size: 25px;
-  background-color: rgb(225, 221, 215);
+background-color: #fff1f5 ;
 }
 * {
   margin: 0;
@@ -16,10 +16,10 @@ body {
 #logo {
   padding-top: 2.5%;
   font-family: forum;
-  background-color: rgb(198, 163, 129);
+  background-color: rgb(250, 218, 221);
 }
 .top {
-  background-color: rgb(198, 163, 129);
+  background-color: rgb(250, 218, 221);
 }
 
 h1 {
@@ -212,7 +212,7 @@ background-size: cover;
 #form-container {
   width: 40%;
   max-height: 50%;
-  background-color: rgb(198, 163, 129);
+  background-color: rgb(250, 218, 221);
   margin: 50px;
   padding: 20px;
   border-radius: 20px;
