@@ -203,11 +203,10 @@ hr.solid-2 {
 }
 
 /* subscription box */
-body {
-  background-image: url(../images/hero-image.png)  no-repeat center center;
-  height: 500px;
-  width: 100%;
-  background-size: cover;
+
+#backgroundimage {
+  background-image: url(../images/background2.jpg);
+background-size: cover;
 }
 
 #form-container {
@@ -217,44 +216,42 @@ body {
   margin: 50px;
   padding: 20px;
   border-radius: 20px;
+  display: flex;
+  justify-content: center;
 }
 
 .join-button {
   text-align: center;
-  font-size: 100%;
+  font-size: 80%;
   background-color: rgb(245, 214, 176);
   color: rgb(110, 68, 32);
   border-radius: 15px;
   padding: 15px 32px 15px 32px;
   display: block;
   margin: 0 auto;
+  margin-top: 20px;
 }
 
-.text-input {
-  display: flex;
-  justify-content: flex-start;
-  color: rgb(110, 68, 32);
-  width: 50%;
-  height: 25px;
-  margin: 5px 0 20px 0;
-  border: 1px solid;
-  border-radius: 2px;
-  padding-top: 1%;
-}
+.text-input
+ {
+  color: rgb(107, 69, 36);
+  margin-top: 20px;
+  margin-bottom: 15px;
+ }
 
-.text-input-message {
-  color: rgb(110, 68, 32);
-  width: 50%;
-  height: 25px;
-  margin: 5px 0 20px 0;
-  border: 1px solid;
-  border-radius: 2px;
-  padding-top: 10%;
-}
 
 .subform {
     display: flex;
     flex-direction: column;
     background-size: cover;
     align-items: center;
+}
+
+form input[type=text] {
+  width: 100%;
+  padding: 10px;
+}
+
+#headings {
+  color: rgb(81, 46, 16);
 }
