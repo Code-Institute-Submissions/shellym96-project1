@@ -39,7 +39,7 @@ header {
 }
 ul,
 li {
-  font-size: 20px;
+  font-size: 22px;
   color: rgb(81, 46, 16);
   padding-bottom: 15px;
 }
@@ -54,6 +54,7 @@ li {
 .underline:hover {
   text-decoration: underline;
   color: rgb(81, 46, 16);
+  font-size: 25px;
 }
 /* menu2 is best sellers, new arrivals and extra special*/
 
@@ -69,6 +70,7 @@ li {
   text-align: center;
   font-size: 25px;
   color: rgb(81, 46, 16);
+  font-size: 25px;
 }
 
 #rcorners {
