@@ -3,7 +3,7 @@
 body {
   font-family: forum; 
   font-size: 25px;
-background-color: #fff1f5 ;
+background-color: #fff1f5 !important;
 }
 * {
   margin: 0;
@@ -15,10 +15,15 @@ background-color: #fff1f5 ;
 
 #logo {
   padding-top: 2.5%;
-  font-family: forum;
-  background-color: rgb(250, 218, 221);
+  font-family: forum;/*
+  background-color: #fff1f5;
+  background-color: rgb(250, 218, 221);*/
 }
 .top {
+  background-color: #fff1f5; /*
+  background-color: rgb(250, 218, 221);*/
+}
+.topoccasions {
   background-color: rgb(250, 218, 221);
 }
 
@@ -131,7 +136,7 @@ h2 {
 
 footer{
   height: 105px;
-  background-color: rgb(198, 163, 129);
+  background-color: rgb(250, 218, 221);
   margin-top: 3%;
 }
 .socials {
@@ -200,6 +205,7 @@ body {
 hr.solid-2 {
   border-top: 3px solid rgb(110, 68, 32);
   padding: 1rem;
+  font-size: 10px;
 }
 
 /* subscription box */
