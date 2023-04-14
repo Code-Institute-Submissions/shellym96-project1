@@ -60,11 +60,18 @@ li {
   list-style-type: none;
   padding-bottom: 30px;
 }
+
+.underline {
+  transition: all 0.2s ease-in-out;
+}
+
 .underline:hover {
   text-decoration: underline;
   color: rgb(81, 46, 16);
   font-size: 25px;
 }
+
+
 /* menu2 is best sellers, new arrivals and extra special*/
 
 #menu2 {
@@ -152,6 +159,8 @@ footer{
 }
 .socials {
   text-align: center;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .socials > li {
@@ -162,8 +171,6 @@ footer{
   font-size: 160%;
   margin: 5px;
   padding-top: 33px;
-  padding-right: 130px;
-  padding-left: 130px;
   color: rgb(81, 46, 16);
   text-align: center;
 }
@@ -223,8 +230,7 @@ background-size: cover;
 }
 
 #form-container {
-  width: 40%;
-  max-height: 50%;
+  min-width: 40%;
   background-color: rgb(250, 218, 221);
   margin: 50px;
   padding: 20px;
