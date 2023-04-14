@@ -1,5 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap");
 
+html, body {
+  height: 100%;
+}
+
+body > footer {
+  position: sticky;
+  top: 100vh;
+}
+
 body {
   font-family: forum; 
   font-size: 25px;
@@ -175,11 +184,9 @@ body {
  padding-left: 30px;
  padding-right: 30px;
  margin: auto;
-}
-/* NEED TO CHECK WITH TIM ON HOW TO MAKE BIGGER LIKE OTHERS*/
-#chocolates {
-  max-width: 120%;
-  max-height: auto;
+ object-fit: cover;
+ min-height: 250px;
+ min-width: 300px;
 }
 
 .zoom:hover {
@@ -197,8 +204,6 @@ body {
 #titles {
   text-align: center;
   font-size: 25px;
-  position: relative;
-  bottom: -65px;
   text-decoration: underline;
   flex-direction: column;
   padding-bottom: 7%;
@@ -255,7 +260,7 @@ background-size: cover;
     align-items: center;
 }
 
-form input[type=text] {
+form input[type=text], form input[type=date]{
   width: 100%;
   padding: 10px;
 }
