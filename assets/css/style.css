@@ -263,3 +263,13 @@ form input[type=text] {
 #headings {
   color: rgb(81, 46, 16);
 }
+
+@media screen and (max-width: 930px) {
+  #menu1 {
+    float: left;
+    clear: left;
+    line-height: 20px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+  }
+}
