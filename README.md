@@ -1,1 +1,3 @@
 # project1
+<h1>Blossoming Bláthanna </h1>
+<p>Blossoming Bláthanna is an irish owned florist based in the capital city of Ireland, Dublin. Proud to be an Irish grown business , we have our native language in the name. Bláthanna meaning flowers in Irish. With our aim to bring a complete online flower service to customers with the option of having a flower subscription to have flowers delivered to you or a loved one on a date you choose, continuously. This being a website the customer can view images of bouquets, customers favourites and even add on some extras to go with their flowers if needs be. Contact can be made by emailing, phoning or simply by signing up to our subscription page.</p>
