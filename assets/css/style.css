@@ -209,7 +209,7 @@ body {
   gap: 2rem;
 }
 
-#titles {
+.titles {
   text-align: center;
   font-size: 25px;
   text-decoration: underline;
