@@ -12,9 +12,9 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 | Page | W3C URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fshellym96.github.io%2Fproject1%2Findex.html) | ![screenshot](assets/documentation/html-validation.png) | Pass - no errors or warnings to show|
-| Occasions | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fshellym96.github.io%2Fproject1%2Foccasions.html) | ![screenshot](assets/documentation/occasions-validation.png) | Pass - no errors or warnings to show|
-| Flower Subscriptions | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fshellym96.github.io%2Fproject1%2Findex.html) | ![screenshot](assets/documentation/subs-validation.png) | Pass - no errors or warnings to show|
+| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fshellym96.github.io%2Fproject1%2Findex.html) | ![screenshot](documentation/html-validation.png) | Pass - no errors or warnings to show|
+| Occasions | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fshellym96.github.io%2Fproject1%2Foccasions.html) | ![screenshot](documentation/occasions-validation.png) | Pass - no errors or warnings to show|
+| Flower Subscriptions | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fshellym96.github.io%2Fproject1%2Findex.html) | ![screenshot](documentation/subs-validation.png) | Pass - no errors or warnings to show|
 
 
 ### CSS
@@ -24,7 +24,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 | File | Jigsaw URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fshellym96.github.io%2Fproject1) | ![screenshot](assets/documentation/css-validation.png) | Pass: No Errors or warnings to show |
+| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fshellym96.github.io%2Fproject1) | ![screenshot](documentation/css-validation.png) | Pass: No Errors or warnings to show |
 
 ## Browser Compatibility
 
@@ -33,10 +33,10 @@ Everything remained the same, the way it was intended.
 
 | Browser | Screenshot | Notes |
 | --- | --- | --- |
-| Safari | ![screenshot](assets/documentation/safari.png) | Works perfectly |
-| Opera | ![screenshot](assets/documentation/opera.png) | Works perfectly |
-| Chrome| ![screenshot](assets/documentation/chrome.png) | Works perfectly |
-| Firefox | ![screenshot](assets/documentation/firefox.png) | Works perfectly |
+| Safari | ![screenshot](documentation/safari.png) | Works perfectly |
+| Opera | ![screenshot](documentation/opera.png) | Works perfectly |
+| Chrome| ![screenshot](documentation/chrome.png) | Works perfectly |
+| Firefox | ![screenshot](documentation/firefox.png) | Works perfectly |
 | Internet Explorer | | Was retired June 15th 2022 |
 
 
@@ -46,9 +46,9 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | Page | Size | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | Desktop | ![screenshot](assets/documentation/lighthouse-index.png) | all high greens, except SEO  |
-| Occasions | Desktop | ![screenshot](assets/documentation/lighthouse-occasions.png) | all high greens, except SEO  |
-| Subscriptions | Desktop | ![screenshot](assets/documentation/lighthouse-subs.png) | all high greens, except SEO |
+| Home | Desktop | ![screenshot](documentation/lighthouse-index.png) | all high greens, except SEO  |
+| Occasions | Desktop | ![screenshot](documentation/lighthouse-occasions.png) | all high greens, except SEO  |
+| Subscriptions | Desktop | ![screenshot](documentation/lighthouse-subs.png) | all high greens, except SEO |
 
 ### GitHub **Issues**
 
