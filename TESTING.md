@@ -14,7 +14,7 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 | --- | --- | --- | --- |
 | Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fshellym96.github.io%2Fproject1%2Findex.html) | ![screenshot](assets/documentation/html-validation.png) | Pass - no errors or warnings to show|
 | Occasions | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fshellym96.github.io%2Fproject1%2Foccasions.html) | ![screenshot](assets/documentation/occasions-validation.png) | Pass - no errors or warnings to show|
-| Flower Subscriptions | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fshellym96.github.io%2Fproject1%2Findex.html) | ![screenshot](assets/aocumentation/subs-validation.png) | Pass - no errors or warnings to show|
+| Flower Subscriptions | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fshellym96.github.io%2Fproject1%2Findex.html) | ![screenshot](assets/documentation/subs-validation.png) | Pass - no errors or warnings to show|
 
 
 ### CSS
@@ -24,7 +24,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 | File | Jigsaw URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fshellym96.github.io%2Fproject1) | ![screenshot](aseets/documentation/css-validation.png) | Pass: No Errors or warnings to show |
+| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fshellym96.github.io%2Fproject1) | ![screenshot](assets/documentation/css-validation.png) | Pass: No Errors or warnings to show |
 
 ## Browser Compatibility
 
