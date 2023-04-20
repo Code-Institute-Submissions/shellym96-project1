@@ -7,7 +7,7 @@ Here's my deployed site as an example:
 https://ui.dev/amiresponsive?url=https://shellym96.github.io/project1
 
 
-![screenshot](assets/documentation/mockup.png)
+![screenshot](documentation/mockup.png)
 
 ## UX
 
@@ -26,7 +26,7 @@ I decided to go with these colours , to have a fun, light side to the website , 
 
 I used Coolers ' https://coolors.co/fff1f5-fadadd-f5d6b0-c6a381-512e10 ' to generate my colour palette.
 
-![screenshot](assets/documentation/coolers.png)
+![screenshot](documentation/coolers.png)
 
 
 ### Typography
@@ -49,20 +49,20 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 | Size | Screenshot |
 | --- | --- |
-| Desktop | ![screenshot](assets/documentation/wireframes/desktop-home.png) |
+| Desktop | ![screenshot](documentation/wireframes/desktop-home.png) |
 
 ### Occasions Page Wireframes
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](assets/documentation/wireframes/mobile-occasions.png) |
+| Mobile | ![screenshot](documentation/wireframes/mobile-occasions.png) |
 
 ### Flower Subscriptions Page Wireframes
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](assets/documentation/wireframes/mobile-subs.png) |
-| Desktop | ![screenshot](assets/documentation/wireframes/desktop-subs.png) |
+| Mobile | ![screenshot](documentation/wireframes/mobile-subs.png) |
+| Desktop | ![screenshot](documentation/wireframes/desktop-subs.png) |
 
 
 ## Features
@@ -83,7 +83,7 @@ With a hover effect over titles and images to have them viewed more easily, whil
     * Mobile
 which makes it less confusing for returning customers.
 
-![screenshot](assets/documentation/navigation.png)
+![screenshot](documentation/navigation.png)
 
 - **Home Page**
 
@@ -92,14 +92,14 @@ which makes it less confusing for returning customers.
       * As you begin to scroll down the page you come to three images picked to catch the eye of the cusomter, with a hover:zoom effect on both image and title above. 
          * Continuing to scroll, you will come to our About us section that is filled with information the consumer may be looking for with our contact information also present below.
 
-![screenshot](assets/documentation/home-page.png)
+![screenshot](documentation/home-page.png)
 
 - **About Us**
     * Full of information on the business itself, how and where it began. 
     * Our goals , our service and what we want to bring to the customer.
 * While being full of information, still showing the customer that they come first and we want to make sure that they know we value their precious time.
 
-![screenshot](assets/documentation/about-us.png)
+![screenshot](documentation/about-us.png)
 
 
 - **Footer**
@@ -110,7 +110,7 @@ which makes it less confusing for returning customers.
         * Twitter
 Each bring customer to a separate tab when clicked , so they dont loose access to our website.
 
-![screenshot](assets/documentation/footer.png)
+![screenshot](documentation/footer.png)
 
 - **Occasions Page**
 
@@ -119,8 +119,8 @@ Each bring customer to a separate tab when clicked , so they dont loose access t
     * Three images with hover:zoom effect in place per section.
     * Contact us information placed at the bottom of the screen above the footer for quick access.
 
-    ![screenshot](assets/documentation/occasions2.png)
-    ![screenshot](assets/documentation/occasions1.png)
+    ![screenshot](documentation/occasions2.png)
+    ![screenshot](documentation/occasions1.png)
 
 - **Flower Subscriptions Page**
     * An interactive subscriptions page which gives you options of 
@@ -129,9 +129,9 @@ Each bring customer to a separate tab when clicked , so they dont loose access t
         * Date of Delivery
         * Message which is optional
     * All are required except the message box, which pops up below the text field if customer tries to submit without filling them in. 
-    * Contact us information palces at the bottom of the subscription box again for quick access.
+    * Contact us information places at the bottom of the subscription box again for quick access.
 
-    ![screenshot](assets/documentation/subscription.png)
+    ![screenshot](documentation/subscription.png)
 
 ### Future Features
 
