@@ -2,6 +2,10 @@
 
 Return back to the [README.md](README.md) file.
 
+## Version Control / Commit Messages
+
+I'm fully aware that some of my commit messages are not up to standard, and that's because I was following along with the Code Institute lessons and tutorials. After speaking with my mentor, I now know the best practices for writing commit messages, and will proceed to use this new knowledge going forward with my future projects.
+
 ## Code Validation
 
 
