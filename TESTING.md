@@ -50,10 +50,12 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | Page | Size | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | Desktop | ![screenshot](documentation/lighthouse-index.png) | all high greens, except SEO  |
-| Occasions | Desktop | ![screenshot](documentation/lighthouse-occasions.png) | all high greens, except SEO  |
-| Subscriptions | Desktop | ![screenshot](documentation/lighthouse-subs.png) | all high greens, except SEO |
-
+| Home | Desktop | ![screenshot](documentation/index-lighthouse.png) | all high greens, except SEO  |
+| Occasions | Desktop | ![screenshot](documentation/occasions-lighthouse.png) | all high greens, except SEO  |
+| Subscriptions | Desktop | ![screenshot](documentation/sub-lighthouse.png) | all high greens, except SEO |
+| Home | Mobile | ![screenshot](documentation/index-lighthouse-mobile.png) | all high greens, except SEO  |
+| Occasions | Mobile | ![screenshot](documentation/occasions-lighthouse-mobilep.png) | all high greens, except SEO  |
+| Subscriptions | Mobile | ![screenshot](documentation/sub-lighthouse-mobile.png) | all high greens, except SEO |
 ### **Issues**
 
 
