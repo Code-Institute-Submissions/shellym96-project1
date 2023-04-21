@@ -54,7 +54,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | Occasions | Desktop | ![screenshot](documentation/occasions-lighthouse.png) | all high greens |
 | Subscriptions | Desktop | ![screenshot](documentation/sub-lighthouse.png) | all high greens |
 | Home | Mobile | ![screenshot](documentation/index-lighthouse-mobile.png) | all high greens, except SEO  |
-| Occasions | Mobile | ![screenshot](documentation/occasions-lighthouse-mobilep.png) |  all high greens, except SEO  |
+| Occasions | Mobile | ![screenshot](documentation/occasions-lighthouse-mobilep.png) |  all high greens  |
 | Subscriptions | Mobile | ![screenshot](documentation/sub-lighthouse-mobile.png) | all high greens, except SEO  |
 
 ## Responsiveness
