@@ -283,4 +283,8 @@ form input[type="date"] {
     margin-bottom: 20px;
     margin-left: 25px;
   }
+
+  .container {
+    grid-template-columns: 1fr;
+  }
 }
