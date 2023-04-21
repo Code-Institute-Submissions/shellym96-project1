@@ -56,6 +56,13 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | Home | Mobile | ![screenshot](documentation/index-lighthouse-mobile.png) | all high greens, except SEO  |
 | Occasions | Mobile | ![screenshot](documentation/occasions-lighthouse-mobilep.png) | all high greens, except SEO  |
 | Subscriptions | Mobile | ![screenshot](documentation/sub-lighthouse-mobile.png) | all high greens, except SEO |
+
+## Responsiveness
+| Device | Screenshot | Notes |
+| --- | --- | --- |
+| Mobile (DevTools) | ![screenshot](documentation/mobile-response.png) | Works as expected |
+| Tablet (DevTools) | ![screenshot](documentation/tablet-response.png) | Works as expected |
+| Desktop | ![screenshot](documentation/desktop-response.png) | Works as expected |
 ### **Issues**
 
 
