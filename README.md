@@ -239,6 +239,6 @@ Below are links and names to websites I have chosen my images from. I decided to
 - I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) . The support I recieved from my fellow course members really pushed me to keep going, knowing we were doing this together.
 
 
+## Version Control / Commit Messages
 
-
-
+I'm fully aware that some of my commit messages are not up to standard, and that's because I was following along with the Code Institute lessons and tutorials. After speaking with my mentor, I now know the best practices for writing commit messages, and will proceed to use this new knowledge going forward with my future projects.
