@@ -54,18 +54,17 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | Occasions | Desktop | ![screenshot](documentation/lighthouse-occasions.png) | all high greens, except SEO  |
 | Subscriptions | Desktop | ![screenshot](documentation/lighthouse-subs.png) | all high greens, except SEO |
 
-### GitHub **Issues**
+### **Issues**
 
 
 **Fixed Bugs**
 
-All previously closed/fixed bugs can be tracked [here](https://github.com/shellym96/project1/issues?q=is%3Aissue+is%3Aclosed).
 
 | Bug | Status |
 | --- | --- |
-| Social media icons wouldn't seperate as I had intended, tried different code to fix the problem. Doubled checked to see spelling was wrong on the class.| Closed |
-| Occasion images would not go to size and when changed they would go vertical. When I found a way to make them horizontal they would have no space. Tried margin and padding, with no luck. Found grid to fix issue. | Closed |
-| W3C, had testing issues. Errors of duplicate attributes, unclosed a attributes with extra closing div. All resolved. | Closed |
+| Social media icons wouldn't seperate as I had intended, tried different code to fix the problem. Doubled checked to see spelling was wrong on the class.| Fixed |
+| Occasion images would not go to size and when changed they would go vertical. When I found a way to make them horizontal they would have no space. Tried margin and padding, with no luck. Found grid to fix issue. | Fixed |
+| W3C, had testing issues. Errors of duplicate attributes, unclosed a attributes with extra closing div. All resolved. | Fixed |
 
 
 There are no remaining bugs that I am aware of.
